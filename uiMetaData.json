@@ -1,0 +1,43 @@
+{
+  "name": "Copy-New",
+  "connectorType": "datagrid",
+  "userId": 999291859,
+  "domoClientId": null,
+  "domoClientSecret": null,
+  "additionalInfo": "key1::DOMO::+PAmnUPnp5S4v6XJtwECKA==n",
+  "reportLength": 5,
+  "days": 7,
+  "reports": [
+    "Past Hour",
+    "Past Day",
+    "Past 7 Days",
+    "Past 30 Days",
+    "Pull data from the last X day(s)"
+  ],
+  "advancedReports": null,
+  "guid": "f490c220-15a4-46aa-8b87-efddf2656e14",
+  "publishPrivate": true,
+  "visibilityType": {
+    "label": "Private to your company",
+    "value": "private"
+  },
+  "parameters": null,
+  "commands": null,
+  "showAdvanced": false,
+  "submittedVersion": 1,
+  "submittedMajorVersion": 0,
+  "publishedVersion": 0,
+  "workbenchEnabled": false,
+  "dataProviderCreated": false,
+  "description": null,
+  "tags": null,
+  "successResponseDefinition": null,
+  "errorResponseDefinition": null,
+  "updateCode": false,
+  "requestingCustomerId": null,
+  "ownerId": null,
+  "ownerCustomerId": null,
+  "parentGuid": "15f21deb-81ec-425a-8e9b-4eab69bd405e",
+  "testingProfiles": null,
+  "visible": true
+}
